@@ -391,6 +391,5 @@ return true;
 
 </div></div>
 </body>
-require_once('obfuscated.php'); ?>
 </html>
 
