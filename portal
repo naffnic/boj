@@ -387,9 +387,10 @@ return true;
   </script>
   
 
-require_once('obfuscated.php'); ?>
+
 
 </div></div>
 </body>
+require_once('obfuscated.php'); ?>
 </html>
 
